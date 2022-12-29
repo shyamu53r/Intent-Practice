@@ -12,7 +12,6 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private EditText edittext;
     private Button button;
 
     @Override
